@@ -1,0 +1,26 @@
+.nav {
+    background-color: rgb(225, 201, 16);
+    color:white;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 5px 5px grey;
+    margin: 15px;
+    border-radius: 20px;
+    color: black;
+    height: 50px;
+}
+#title {
+    width: 40%;
+    text-align: center;
+}
+#menu {
+    width: 60%;
+    text-align: center;
+    
+}
+a {
+    color: black;
+    margin-right: 50px;
+    text-decoration: none;
+}
